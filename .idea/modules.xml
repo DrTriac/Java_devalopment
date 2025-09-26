@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-programming.iml" filepath="$PROJECT_DIR$/Java-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1W1/P1W1.iml" filepath="$PROJECT_DIR$/P1W1/P1W1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1W2/P1W2.iml" filepath="$PROJECT_DIR$/P1W2/P1W2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1W3/P1W3.iml" filepath="$PROJECT_DIR$/P1W3/P1W3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1W4/P1W4.iml" filepath="$PROJECT_DIR$/P1W4/P1W4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1W5/P1W5.iml" filepath="$PROJECT_DIR$/P1W5/P1W5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1W6/P1W6.iml" filepath="$PROJECT_DIR$/P1W6/P1W6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra_oefeningen/extra_oefeningen.iml" filepath="$PROJECT_DIR$/extra_oefeningen/extra_oefeningen.iml" />
+    </modules>
+  </component>
+</project>
