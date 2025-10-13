@@ -18,7 +18,7 @@ public class Spelen_met_strings {
         System.out.printf("er zijn: %d karakters, spaties niet meegeteld \n",zin.length()-aantalspaties);
         System.out.printf("%s \n",zin.replaceAll("e","_"));
         System.out.printf(zin.replaceAll(" ",""));
-        
+
 
     }
 }
