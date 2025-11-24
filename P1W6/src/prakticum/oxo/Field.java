@@ -1,7 +1,7 @@
 package oxo;
 
 import java.util.Objects;
-
+import java.util.Scanner;
 public class Field {
 
     char[][] moves = {
@@ -46,9 +46,22 @@ public class Field {
     }
 
     public int changeField(int movex, int movey, char symbol) {
-        if (moves[movex][movey] != ' ')
+        Scanner input = new Scanner(System.in);
+        while (moves[movex][movey] != ' ')
         {
-            return 1;
+            System.out.print("HIER IS AL GESPEELD! GEEF EEN ANDER COORDINAAT IN! \n");
+            System.out.println("Geef een nieuw X coordinaat in");
+            movex = input.nextInt();
+            System.out.println("Geef een nieuw Y coordinaat in");
+            movey = input.nextInt();
+        }
+        while (movex > 2 || movey > 2 )
+        {
+            System.out.printf("getal in ongeldig. geef een getal in tussen 0 en 2 \n");
+            System.out.println("Geef een nieuw X coordinaat in");
+            movex = input.nextInt();
+            System.out.println("Geef een nieuw Y coordinaat in");
+            movey = input.nextInt();
         }
 
         moves[movex][movey] = symbol;
