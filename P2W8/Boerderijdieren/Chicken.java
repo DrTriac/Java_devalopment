@@ -5,7 +5,7 @@ public class Chicken extends FarmaAnimal {
     public Chicken(String name, int eggsPerWeek) {
         super(name, "toktok", "mais");
         this.eggsPerWeek = eggsPerWeek;
-        System.out.println(this.toString());
+
     }
     @Override
     public String toString() {

@@ -5,7 +5,7 @@ public class Cow extends FarmaAnimal {
     public Cow(String name, double literMilkPerDay) {
         super(name, "boeboe", "grass");
         this.literMilkPerDay = literMilkPerDay;
-        System.out.println(this.toString());
+        //System.out.println(this.toString());
     }
 
 

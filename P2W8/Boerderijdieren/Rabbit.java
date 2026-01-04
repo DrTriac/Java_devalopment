@@ -6,7 +6,7 @@ public class Rabbit extends FarmaAnimal {
     public Rabbit(String name, boolean likesDigging) {
         super(name, "snifsnif", "grass");
         this.likesDigging = likesDigging;
-        System.out.println(this.toString());
+        //System.out.println(this.toString());
     }
 
     public boolean isLikesDigging() {
