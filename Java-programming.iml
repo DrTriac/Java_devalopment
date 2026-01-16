@@ -3,7 +3,13 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/P2W10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P2W10/winkelmandje/winkelmandje" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P2W9/DierenRijk" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P2W9/Transportmiddelen" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/voorbeeldexamen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P2W11/src/Doubles" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
