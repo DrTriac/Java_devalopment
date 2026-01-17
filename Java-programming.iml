@@ -10,6 +10,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/voorbeeldexamen/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/P2W11/src/Doubles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P2W11/src/Database" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P2W11/src/F1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P2W11/src/Winkelmandje" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P2W11/src/Woordenboek" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

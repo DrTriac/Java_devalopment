@@ -1,7 +1,8 @@
 package Laptops;
 
-public enum CpuType {
-    I3, I5, I7;
+public enum Brand {
+
+    ACER, APPLE, ASUS, DELL, HP, LENOVO, MEDION, TOSHIBA;
 
     @Override
     public String toString()
