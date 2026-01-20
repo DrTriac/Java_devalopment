@@ -14,6 +14,8 @@
       <sourceFolder url="file://$MODULE_DIR$/P2W11/src/F1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/P2W11/src/Winkelmandje" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/P2W11/src/Woordenboek" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P2W7/Oefeningen_ppt/Datums" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P2W8/oefeningen_ppt" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
